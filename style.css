@@ -72,6 +72,8 @@ h1 {
   background: #1e3799;
 }
 
+/* making it responsive  for the mobile size*/
+
 @media screen and (max-width: 768px) {
   .container {
     max-width: 90%;
